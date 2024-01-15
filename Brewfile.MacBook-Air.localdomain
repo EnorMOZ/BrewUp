@@ -1,0 +1,12 @@
+tap "homebrew/autoupdate"
+tap "homebrew/bundle"
+brew "mas"
+brew "nano"
+brew "nethogs"
+brew "pinentry-mac"
+brew "pyenv-virtualenv"
+brew "saml2aws"
+brew "wget"
+cask "librewolf"
+mas "1Password for Safari", id: 1569813296
+mas "Simplenote", id: 692867256
