@@ -1,0 +1,18 @@
+tap "homebrew/autoupdate"
+tap "homebrew/bundle"
+brew "aws-cdk"
+brew "mas"
+brew "nano"
+brew "nethogs"
+brew "nodenv"
+brew "pinentry-mac"
+brew "pyenv-virtualenv"
+brew "saml2aws"
+brew "wget"
+brew "xz"
+cask "librewolf"
+cask "vscodium"
+mas "1Password for Safari", id: 1569813296
+mas "Microsoft Word", id: 462054704
+mas "Numbers", id: 409203825
+mas "Simplenote", id: 692867256
