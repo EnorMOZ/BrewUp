@@ -1,0 +1,27 @@
+tap "homebrew/autoupdate"
+tap "homebrew/bundle"
+brew "node"
+brew "aws-cdk"
+brew "xz"
+brew "awscli"
+brew "cask"
+brew "mas"
+brew "nano"
+brew "nethogs"
+brew "nodenv"
+brew "pinentry-mac"
+brew "pyenv-virtualenv"
+brew "rclone"
+brew "saml2aws"
+brew "tesseract"
+brew "tmux"
+brew "wget"
+cask "chromedriver"
+cask "exifcleaner"
+cask "librewolf"
+cask "vscodium"
+mas "1Password for Safari", id: 1569813296
+mas "Numbers", id: 409203825
+mas "Simplenote", id: 692867256
+mas "The Unarchiver", id: 425424353
+mas "Windows App", id: 1295203466
